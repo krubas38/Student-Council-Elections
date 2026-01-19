@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Google Apps Script Project</title>
+    <style>
+        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+        iframe { border: none; width: 100%; height: 100vh; }
+    </style>
+</head>
+<body>
+
+    <iframe src="https://script.google.com/macros/s/AKfycbyT2WRdBGneFpB_SBqw2K_jPO5U_wB5evcOn6Rjsg3Soh3eXBTCc2bRk3RzYNqB30GWig/exec">
+    </iframe>
+
+</body>
+</html>
